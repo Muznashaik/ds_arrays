@@ -1,0 +1,5 @@
+def kthSmallest(self,arr,k):
+        arr.sort()
+        for i in range(len(arr)):
+            if i+1==k:
+                return arr[i]
