@@ -1,0 +1,3 @@
+def reverseWord(self, str: str) -> str:
+        s=str[::-1]
+        return s
