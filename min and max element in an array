@@ -1,0 +1,4 @@
+ s=max(a)
+    b=min(a)
+    return b,s
+    
